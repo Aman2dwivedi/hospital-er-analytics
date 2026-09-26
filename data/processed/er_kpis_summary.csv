@@ -1,0 +1,16 @@
+triage_level_name,shift_period,total_patients,avg_wait_time_mins,p90_wait_time_mins,avg_los_hours,sla_compliance_rate,admission_rate,lwbs_rate,readmission_30d_rate,avg_satisfaction,total_revenue_usd
+ESI 1 - Resuscitation,Day Shift (08:00-15:59),493,1.5,4.0,3.52,78.3,84.8,0.0,17.24,4.2,3317636.98
+ESI 1 - Resuscitation,Evening Shift (16:00-23:59),402,1.5,4.0,3.5,78.1,86.1,0.0,19.4,4.23,2716244.33
+ESI 1 - Resuscitation,Night Shift (00:00-07:59),138,1.7,4.0,3.6,75.4,83.3,0.0,23.91,4.17,935614.45
+ESI 2 - Emergent,Day Shift (08:00-15:59),2110,17.6,24.0,3.18,35.0,80.9,0.0,21.04,4.25,11108348.07
+ESI 2 - Emergent,Evening Shift (16:00-23:59),1832,18.0,25.0,3.21,31.1,80.1,0.0,19.38,4.22,9691327.82
+ESI 2 - Emergent,Night Shift (00:00-07:59),632,14.5,21.0,3.12,56.8,81.3,0.0,20.41,4.21,3351353.73
+ESI 3 - Urgent,Day Shift (08:00-15:59),2409,66.9,97.0,3.27,39.3,35.7,0.0,7.97,3.1,7777125.42
+ESI 3 - Urgent,Evening Shift (16:00-23:59),1906,69.6,100.0,3.34,35.8,36.8,0.0,8.08,3.09,6118990.82
+ESI 3 - Urgent,Night Shift (00:00-07:59),681,56.0,84.0,3.06,57.1,36.1,0.0,8.81,3.39,2189316.24
+ESI 4 - Less Urgent,Day Shift (08:00-15:59),1625,121.9,171.0,2.95,43.8,5.9,15.63,6.03,2.22,2337679.29
+ESI 4 - Less Urgent,Evening Shift (16:00-23:59),1314,126.6,175.0,3.04,38.8,4.2,14.61,6.54,2.2,1912915.31
+ESI 4 - Less Urgent,Night Shift (00:00-07:59),462,101.3,146.0,2.65,64.1,4.5,12.34,7.36,2.39,676814.07
+ESI 5 - Non-Urgent,Day Shift (08:00-15:59),472,156.2,220.9,3.49,19.3,4.7,17.8,5.51,1.91,573784.46
+ESI 5 - Non-Urgent,Evening Shift (16:00-23:59),399,159.0,219.2,3.55,19.3,4.3,16.79,5.26,1.83,483834.15
+ESI 5 - Non-Urgent,Night Shift (00:00-07:59),125,136.2,196.8,3.07,31.2,5.6,21.6,4.8,2.15,141257.62
