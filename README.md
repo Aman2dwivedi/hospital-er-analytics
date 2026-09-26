@@ -9,6 +9,10 @@
 > An end-to-end Healthcare Data Analytics & Operational Intelligence platform designed to diagnose Emergency Department (ED) throughput bottlenecks, optimize physician staffing schedules, track triage SLA compliance, and minimize patient boarding delays.
 
 ---
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hospital-er-analytics-wtugbgfc84rvtkjprcw4nc.streamlit.app/)
+## 🌐 Live Interactive Demo
+🚀 **Access the Live Web Dashboard here:**  
+👉 **[Launch Live Streamlit Dashboard](https://hospital-er-analytics-wtugbgfc84rvtkjprcw4nc.streamlit.app/)**
 
 ## 👨‍💻 Created By
 **Aman Dwivedi**  
