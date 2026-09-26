@@ -1,9 +1,10 @@
 # 🏥 Hospital ER Flow & Resource Utilization Analytics Platform
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![SQL Analytics](https://img.shields.io/badge/SQL-DuckDB%20%2F%20Postgres-336791.svg?logo=postgresql&logoColor=white)](https://duckdb.org/)
-[![Author](https://img.shields.io/badge/Created%20by-Aman%20Dwivedi-0f4c81.svg)](https://github.com/)
+[![Author](https://img.shields.io/badge/Created%20by-Aman%20Dwivedi-0f4c81.svg)](https://github.com/Aman2dwivedi)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > An end-to-end Healthcare Data Analytics & Operational Intelligence platform designed to diagnose Emergency Department (ED) throughput bottlenecks, optimize physician staffing schedules, track triage SLA compliance, and minimize patient boarding delays.
@@ -14,10 +15,16 @@
 🚀 **Access the Live Web Dashboard here:**  
 👉 **[Launch Live Streamlit Dashboard](https://hospital-er-analytics-wtugbgfc84rvtkjprcw4nc.streamlit.app/)**
 
+## 🌐 Live Interactive Demo
+🚀 **Access the Live Web Dashboard here:**  
+👉 **[Launch Live Streamlit Dashboard](https://share.streamlit.io/)** *(Deploy via Streamlit Cloud)*
+
+---
+
 ## 👨‍💻 Created By
 **Aman Dwivedi**  
 *Healthcare Data Analytics & Business Intelligence*  
-* [GitHub Profile](https://github.com/) • [LinkedIn Profile](https://linkedin.com/) • [Portfolio](https://github.com/)
+* [GitHub: @Aman2dwivedi](https://github.com/Aman2dwivedi) • [Repository](https://github.com/Aman2dwivedi/hospital-er-analytics)
 
 ---
 
